@@ -13,17 +13,18 @@ I'm a 2nd-year Computer Engineering student passionate about learning and buildi
 ## 🛠 Projects
 Here are a few repositories showcasing my work:
 
-### 1. [Project Name](https://github.com/HuseyinK0r0glu/repo)
-A brief description of the project. What technologies were used? What problems does it solve?
+### 1. [Spring Boot Projects](https://github.com/HuseyinK0r0glu/SpringBoot)
+This project is built using Spring Boot, a popular Java framework for creating web applications and REST APIs. The goal is to showcase how to develop a backend service with key features such as dependency injection, RESTful APIs, and database interaction.
 
-### 2. [Project Name](https://github.com/HuseyinK0r0glu/repo)
-A brief description of the project. Highlight your contributions and any key features.
+### 2. [Mining Game](https://github.com/HuseyinK0r0glu/MiningGame)
+MiningGame is a JavaFX project where players control a mining drill to explore underground, collect valuable resources, manage fuel, and avoid hazards like lava. The game involves gravity mechanics and resource management, providing a dynamic experience.
 
-### 3. [Project Name](https://github.com/HuseyinK0r0glu/repo)
-Another project description. Focus on what you learned and the impact of the project.
+### 3. [Whatsapp Clone](https://github.com/HuseyinK0r0glu/WhatsAppClone)
+WhatsAppClone is a React Native project that mimics the core functionalities of WhatsApp. The application allows users to send messages, make audio and video calls, manage conversations, and handle user profiles with a clean and intuitive interface. The project is built using Expo for easy testing and deployment across Android and iOS.
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/huseyinkoroglu)
-- Email: huseyin.koroglu@example.com
+- [LinkedIn](http://www.linkedin.com/in/huseyin-koroglu)
+- Email: huseyinkoroglu.dev@gmail.com
+- Email: korogluh27@gmail.com
 
 Let's connect if you're interested in collaborating on open-source projects or just want to talk about tech!
