@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hüseyin Koroglu 👨‍💻
+*Computer Engineering Student at Hacettepe University*
 
-<!--
-**HuseyinK0r0glu/HuseyinK0r0glu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd-year Computer Engineering student passionate about learning and building projects that solve real-world problems. My main interests are in *software development, **data structures, **algorithms, and **web development*. I enjoy working on open-source projects and continuously improving my skills in various programming languages and technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- *Languages*: C, C++, Python, JavaScript
+- *Frameworks*: React.js, Node.js, Express
+- *Database*: MySQL, PostgreSQL
+- *Version Control*: Git, GitHub
+- *Other Tools*: Linux, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects
+Here are a few repositories showcasing my work:
+
+### 1. [Project Name](https://github.com/HuseyinK0r0glu/repo)
+A brief description of the project. What technologies were used? What problems does it solve?
+
+### 2. [Project Name](https://github.com/HuseyinK0r0glu/repo)
+A brief description of the project. Highlight your contributions and any key features.
+
+### 3. [Project Name](https://github.com/HuseyinK0r0glu/repo)
+Another project description. Focus on what you learned and the impact of the project.
+
+## 📫 Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/huseyinkoroglu)
+- Email: huseyin.koroglu@example.com
+
+Let's connect if you're interested in collaborating on open-source projects or just want to talk about tech!
