@@ -4,8 +4,8 @@
 I'm a 2nd-year Computer Engineering student passionate about learning and building projects that solve real-world problems. My main interests are in *software development, **data structures, **algorithms, and **web development*. I enjoy working on open-source projects and continuously improving my skills in various programming languages and technologies.
 
 ## 🔧 Technologies & Tools
-- *Languages*: C, C++, Python, JavaScript
-- *Frameworks*: React.js, Node.js, Express
+- *Languages*: Java, C, C++, Python, JavaScript
+- *Frameworks*: React.js, Node.js, Express, Spring Boot
 - *Database*: MySQL, PostgreSQL
 - *Version Control*: Git, GitHub
 - *Other Tools*: Linux, Docker, VS Code
@@ -21,6 +21,9 @@ MiningGame is a JavaFX project where players control a mining drill to explore u
 
 ### 3. [Whatsapp Clone](https://github.com/HuseyinK0r0glu/WhatsAppClone)
 WhatsAppClone is a React Native project that mimics the core functionalities of WhatsApp. The application allows users to send messages, make audio and video calls, manage conversations, and handle user profiles with a clean and intuitive interface. The project is built using Expo for easy testing and deployment across Android and iOS.
+
+### 4. [Tracker App](https://github.com/HuseyinK0r0glu/TrackerApp)
+TrackerApp is a mobile application built using React Native that allows users to track various activities or data points. The app can be customized to track fitness, habits, or goals, providing insights into user performance and progress. It utilizes local storage for data persistence and features real-time updates for an interactive experience.
 
 ## 📫 Get in Touch
 - [LinkedIn](http://www.linkedin.com/in/huseyin-koroglu)
